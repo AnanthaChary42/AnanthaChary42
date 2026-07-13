@@ -67,7 +67,3 @@
 ## 🐍 Contribution Snake
 
 [![Snake animation](https://raw.githubusercontent.com/AnanthaChary42/AnanthaChary42/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/AnanthaChary42/AnanthaChary42/output/github-contribution-grid-snake.svg)
-
----
-
-[![](https://komarev.com/ghpvc/?username=AnanthaChary42&color=39d353&style=flat-square)](https://visitcount.itsvg.in)
