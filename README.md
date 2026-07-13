@@ -4,8 +4,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnanthaChary42&color=39d353&style=flat-square&label=Profile+Views)
 
-[![GitHub followers](https://img.shields.io/github/followers/AnanthaChary42?label=Followers&style=social)](https://github.com/AnanthaChary42)
-
 # Hi there, I'm Anantha 👋
 
 ### Information Science Engineer @ BMSCE · Building AI/ML pipelines & full-stack apps
@@ -69,10 +67,6 @@
 ## 🐍 Contribution Snake
 
 [![Snake animation](https://raw.githubusercontent.com/AnanthaChary42/AnanthaChary42/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/AnanthaChary42/AnanthaChary42/output/github-contribution-grid-snake.svg)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=AnanthaChary42&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
