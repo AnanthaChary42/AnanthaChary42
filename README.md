@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Information%20Science%20Engineer;AI%2FML%20Enthusiast;Android%20Developer;Reinforcement%20Learning%20Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Information%20Science%20Engineer;AI%2FML%20Enthusiast;Reinforcement%20Learning%20Explorer)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnanthaChary42&color=39d353&style=flat-square&label=Profile+Views)
 
 # Hi there, I'm Anantha 👋
 
-### Information Science Engineer @ BMSCE · Building AI/ML pipelines & full-stack apps
+### Information Science Engineer @ BMSCE
 
 </div>
 
@@ -49,7 +49,6 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
 
-
 <div align="center">
 
 # 📊 GitHub Stats:
@@ -67,3 +66,11 @@
 ## 🐍 Contribution Snake
 
 [![Snake animation](https://raw.githubusercontent.com/AnanthaChary42/AnanthaChary42/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/AnanthaChary42/AnanthaChary42/output/github-contribution-grid-snake.svg)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=AnanthaChary42&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://komarev.com/ghpvc/?username=AnanthaChary42&color=39d353&style=flat-square)](https://visitcount.itsvg.in)
